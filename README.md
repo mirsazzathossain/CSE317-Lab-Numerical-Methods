@@ -32,6 +32,9 @@ We will use [Google Colab](https://colab.research.google.com/) for this course. 
 
 # Books
 
+- [Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) by Boyd and Vandenberghed
+- [Linear Algebra and Its Applications, 4th Edition](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179) by David C. Lay
+- [Numerical Methods for Engineers, 7th Edition](https://www.amazon.com/Numerical-Methods-Engineers-7-Ed/dp/9352602137) by Steven C. Chapra and Raymond P. Canale
 - [Python Programming and Numerical Methods: A Guide for Engineers and Scientists, 1st Edition](https://www.amazon.com/dp/0128195495/ref=cm_sw_r_tw_dp_6816MC7GCQWVH8YD7YYV) by Qingkai Kong, Timmy Siauw and Alexandre Bayen
 
 # Teaching Assistants

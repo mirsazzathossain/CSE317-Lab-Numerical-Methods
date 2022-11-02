@@ -12,7 +12,19 @@ This repository includes the lab worksheets and assignments for the Numerical Me
 # Course Outline
 
 - ## Introduction to Python and Numpy:
-  In lab 1, we will learn the basics of python and numpy. We will learn how to use python decare variables, use loops, and write functions. We will also learn how to use numpy to create arrays and perform basic operations on them. We will also learn how to use matplotlib to plot graphs and use pillow to read and write images.
+
+  In lab 1, students will learn the basics of python and numpy. They will learn how to use python decare variables, use loops, and write functions. They will also learn how to use numpy to create arrays and perform basic operations on them. They will also learn how to use matplotlib to plot graphs and use pillow to read and write images.
+
+- ## Taylor Series expansion and approximation:
+
+  In lab 2, students will learn how to use Taylor series to approximate functions. They will implement the Taylor series expansion and approximation in python and numpy. Additionally, they will learn how to use the Taylor series to approximate the value of a function at a point.
+
+- ## Finding roots of a function:
+
+  In lab 3, students will learn how to use the Newton-Raphson method to find the roots of a function. They will implement the Newton-Raphson method in python and numpy. They learn to find derivatives of functions analytically as well as using the finite difference method. They will use both methods to find the roots of a function using the Newton-Raphson method and compare the results.
+
+- ## Numerical Integration:
+  In lab 4, students will learn how to use the trapezoidal rule to approximate the value of an integral. They will implement the trapezoidal rule and composite trapezoidal rule to find the value of an integral using python and numpy.
 
 # Prerequisites
 

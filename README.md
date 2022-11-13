@@ -24,7 +24,12 @@ This repository includes the lab worksheets and assignments for the Numerical Me
   In lab 3, students will learn how to use the Newton-Raphson method to find the roots of a function. They will implement the Newton-Raphson method in python and numpy. They learn to find derivatives of functions analytically as well as using the finite difference method. They will use both methods to find the roots of a function using the Newton-Raphson method and compare the results.
 
 - ## Numerical Integration:
+
   In lab 4, students will learn how to use the trapezoidal rule to approximate the value of an integral. They will implement the trapezoidal rule and composite trapezoidal rule to find the value of an integral using python and numpy.
+
+- ## K Nearest Neighbors:
+
+  In lab 5, students will learn how to use the K Nearest Neighbors algorithm to classify data. They will implement the K Nearest Neighbors algorithm in python and numpy and apply it to a real-world PetImage dataset to classify images of cats and dogs. They will also learn how to use the scikit-learn library to implement the K Nearest Neighbors algorithm. They will leran about different matrics used to evaluate the performance of a classifier.
 
 # Prerequisites
 

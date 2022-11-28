@@ -31,6 +31,13 @@ This repository includes the lab worksheets and assignments for the Numerical Me
 
   In lab 5, students will learn how to use the K Nearest Neighbors algorithm to classify data. They will implement the K Nearest Neighbors algorithm in python and numpy and apply it to a real-world PetImage dataset to classify images of cats and dogs. They will also learn how to use the scikit-learn library to implement the K Nearest Neighbors algorithm. They will leran about different matrics used to evaluate the performance of a classifier.
 
+- ## Linear Regression:
+
+      In lab 6, students will learn how to use the linear regression algorithm to fit a line to a set of data. They will implement the linear regression algorithm in python and numpy and apply it to a real-world PetImage dataset to predict the price of a book based on its number of pages.
+
+- ## Ordinary Least Square Regression:
+      In lab 7, students will learn how to use the ordinary least square regression algorithm to fit a line to a set of data. They will implement the ordinary least square regression algorithm in python and numpy and apply it to a real-world Admissions dataset to predict the chance of admission of a student based on his/her GRE score, TOEFL score, university rating, SOP, LOR, CGPA, and research experience.
+
 # Prerequisites
 
 Following are the prerequisites for this course:
